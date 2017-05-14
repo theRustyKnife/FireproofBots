@@ -1,11 +1,11 @@
 {
 	"name": "fireproof-bots",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"factorio_version": "0.15",
 	"title": "Fireproof Bots",
 	"author": "TheRustyKnife",
 	"description": "Fixes the construction bots stupidly flying into fire by giving them 100% fire resistance.",
 	"homepage": "http://mods.factorio.com/mods/theRustyKnife/fireproof-bots",
-	"date": "10.05.2017",
+	"date": "14.05.2017",
 	"dependencies": ["base"]
 }
