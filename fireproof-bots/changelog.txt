@@ -1,5 +1,8 @@
-##1.0.1##
+## 1.1.0 ##
+* Updated for 0.16
+
+## 1.0.1 ##
 * Fixed a crash on load when there were bots with no resistances defined ([1](https://github.com/theRustyKnife/FireproofBots/issues/1))
 
-##1.0.0##
+## 1.0.0 ##
 + Initial release
